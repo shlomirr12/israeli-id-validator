@@ -1,0 +1,12 @@
+{
+  "name": "israeli-id-validator-api",
+  "version": "1.0.0",
+  "description": "API for validating Israeli ID numbers using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
